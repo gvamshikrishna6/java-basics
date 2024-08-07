@@ -1,0 +1,11 @@
+package upanddowncasting;
+
+public class int_byte
+{
+public static void main(String[] args) 
+{
+	int s1=19375851;
+	byte num1=     124;
+	System.out.println(num1);
+}
+}

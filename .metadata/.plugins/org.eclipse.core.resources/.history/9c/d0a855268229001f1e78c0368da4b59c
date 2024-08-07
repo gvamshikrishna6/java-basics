@@ -1,0 +1,15 @@
+package mktjavaoperators;
+
+public class Nonstaticmethod
+{
+	void add()
+	{
+		System.out.println("addition");
+	}
+public static void main(String[] args) 
+{
+	Nonstaticmethod L1=new Nonstaticmethod
+			L1.add();
+	
+}
+}
